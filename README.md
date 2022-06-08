@@ -10,3 +10,5 @@
 # DataBase Used:
     Azure SQL Server
 
+# Deployement Notes:
+Need to change the Connection string in web.config
